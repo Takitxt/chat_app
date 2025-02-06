@@ -1,11 +1,12 @@
 
 
 const SettingsPage = () => {
-  return (
-    <div>
-      
-    </div>
+  return(
+  <div>
+
+  </div>
   )
 }
 
-export default SettingsPage
+
+export default SettingsPage;

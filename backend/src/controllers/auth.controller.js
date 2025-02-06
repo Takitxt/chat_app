@@ -109,7 +109,7 @@ export const updateProfile = async (req,res)=> {
         const updatedUser = await User.findByIdAndUpdate(userId,
             {profilePic:uploadResponse.secure_url},
              {new:true});
-        res.stutus(200).json(updatedUser)
+        res.status(200).json(updatedUser)
         
     } catch (error) {
         console.log("Error in updateProfile controller",error.message)
