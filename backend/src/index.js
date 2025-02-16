@@ -23,7 +23,7 @@ app.use(express.urlencoded({ limit: "50mb", extended: true }));
 
 
 app.use("/api/auth", authRoutes);
-app.use("/api/message", messageRoutes); 
+app.use("/api/messages", messageRoutes); 
 
 
 app.listen(port, () => {

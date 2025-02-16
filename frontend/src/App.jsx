@@ -8,8 +8,10 @@ import SettingsPage from './Pages/SettingsPage';
 import SignUpPage from './Pages/SignUpPage';
 import ProfilePage from './Pages/ProfilePage';
 
+
 import {Routes,Route, Navigate} from "react-router-dom";
 import { useAuthStore } from './store/useAuthStore';
+import { useThemeStore } from './store/useThemeStore.js';
 import { LoaderCircle } from "lucide-react";
 
 import {Toaster} from "react-hot-toast";
@@ -17,7 +19,9 @@ import {Toaster} from "react-hot-toast";
 
 
 const App = () => {
-  const {authUser, checkAuth,isCheckingAuth}= useAuthStore()
+  const {authUser, checkAuth,isCheckingAuth}= useAuthStore();
+  const {theme} = useThemeStore();
+  
   useEffect(() => {
     checkAuth()
   },[checkAuth]);
@@ -32,7 +36,7 @@ const App = () => {
   )
   
   return (
-    <div data-theme="retro">
+    <div data-theme={theme}>
     <Navbar />
     
     <Routes>

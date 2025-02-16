@@ -9,6 +9,7 @@ isSigningUp:false,
 isLoggingIn:false,
 isUpdatingProfile:false,
 isCheckingAuth:true,
+onlineUsers: [],
 checkAuth: async() =>{
     try {
         const res = await axiosInstance.get("/auth/check");
@@ -30,7 +31,7 @@ signup: async(data) => {
         toast.success("Account created Successfully");
         
     } catch (error) {
-        toast.error(error.responsse.data.message);
+        toast.error(error.response.data.message);
         
     } finally{
         set({isSigningUp:false})
