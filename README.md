@@ -2,7 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Takitxt/chat_app?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Takitxt/chat_app?style=social)
-![GitHub License](https://img.shields.io/github/license/Takitxt/chat_app)
+
 
 A real-time chat application built with modern web technologies. 🚀
 
@@ -37,6 +37,8 @@ Chat App is a real-time messaging platform that enables users to send and receiv
 Ensure you have the following installed:
 - Node.js
 - MongoDB (if using locally)
+  
+# For backend
 
 ### Steps
 ```bash
