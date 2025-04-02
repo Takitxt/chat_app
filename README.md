@@ -13,7 +13,7 @@ A real-time chat application built with modern web technologies. 🚀
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 Chat App is a real-time messaging platform that enables users to send and receive messages instantly.
@@ -44,16 +44,35 @@ Ensure you have the following installed:
 git clone https://github.com/Takitxt/chat_app.git
 
 # Navigate into the project
-d cd chat_app
+cd chat_app
+
+# Navigate into Backend
+cd chat_app/backend/
 
 # Install dependencies
 npm install
 
 # Start the backend server
-npm run server
+npm run dev
 
-# Start the frontend
-npm run client
+
+
+```
+##For Frontend
+### Steps
+```bash
+# Navigate into the project
+cd chat_app
+
+# Navigate into Frontend
+cd chat_app/frontend/
+
+# Install dependencies
+npm install
+
+# Start the frontend server
+npm run dev
+
 ```
 
 ## Usage
@@ -69,8 +88,7 @@ Pull requests are welcome! To contribute:
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 🚀 Happy Coding! If you like the project, don't forget to star ⭐ the repo!
