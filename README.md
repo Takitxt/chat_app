@@ -98,7 +98,7 @@ Pull requests are welcome! To contribute:
 # Screenshots: 
 
 ## LoginPage : 
-![Login](<img width="1432" alt="Screenshot 2025-04-02 at 9 20 59 PM" src="https://github.com/user-attachments/assets/42caba28-3f56-40f3-93c6-d8231b0f1fbd" />
+![Login](https://github.com/user-attachments/assets/42caba28-3f56-40f3-93c6-d8231b0f1fbd
 )
 
 ## Main Page : 
