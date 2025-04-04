@@ -102,19 +102,19 @@ Pull requests are welcome! To contribute:
 )
 
 ## Main Page : 
-![Main](<img width="1427" alt="Screenshot 2025-04-02 at 9 22 38 PM" src="https://github.com/user-attachments/assets/e353726a-4873-4be7-aa3c-dbd386ede1de" />
+![Main](https://github.com/user-attachments/assets/e353726a-4873-4be7-aa3c-dbd386ede1de
 )
 
 ## Chatting Page :
-![Chatting](<img width="1427" alt="Screenshot 2025-04-02 at 9 22 55 PM" src="https://github.com/user-attachments/assets/1c42d96e-87f1-4525-9b77-00c122771679" />
+![Chatting](https://github.com/user-attachments/assets/1c42d96e-87f1-4525-9b77-00c122771679
 )
 
 ## Profile Page :
-![Profile](<img width="1406" alt="Screenshot 2025-04-02 at 9 23 31 PM" src="https://github.com/user-attachments/assets/fad5f5f4-05f3-4262-bcf2-509ba7bf96c5" />
+![Profile](https://github.com/user-attachments/assets/fad5f5f4-05f3-4262-bcf2-509ba7bf96c5
 )
 
 ## Theme Page : 
-![Theme](<img width="1419" alt="Screenshot 2025-04-02 at 9 23 17 PM" src="https://github.com/user-attachments/assets/c75d4134-5837-402f-b04f-fc71320dd250" />
+![Theme](https://github.com/user-attachments/assets/c75d4134-5837-402f-b04f-fc71320dd250
 )
 
 
