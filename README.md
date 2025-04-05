@@ -77,7 +77,7 @@ npm run dev
 
 ```
 ## .env file
-'''bash 
+```bash 
 
 MONGODB_URI=...........
 
@@ -90,7 +90,7 @@ CLOUDINARY_API_KEY=........
 CLOUDINARY_API_SECRET=........
 
 NODE_ENV=development
-'''
+```
 
 ## Usage
 1. Open the app in your browser.
