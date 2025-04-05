@@ -38,7 +38,7 @@ Ensure you have the following installed:
 - Node.js
 - MongoDB (if using locally)
   
-# For backend
+## For backend
 
 ### Steps
 ```bash
@@ -60,7 +60,7 @@ npm run dev
 
 
 ```
-##For Frontend
+## For Frontend
 ### Steps
 ```bash
 # Navigate into the project
@@ -76,6 +76,21 @@ npm install
 npm run dev
 
 ```
+## .env file
+'''bash 
+
+MONGODB_URI=...........
+
+PORT=5001
+
+JWT_SECRET=.........
+
+CLOUDINARY_CLOUD_NAME=........
+CLOUDINARY_API_KEY=........
+CLOUDINARY_API_SECRET=........
+
+NODE_ENV=development
+'''
 
 ## Usage
 1. Open the app in your browser.
@@ -116,6 +131,8 @@ Pull requests are welcome! To contribute:
 ## Theme Page : 
 ![Theme](https://github.com/user-attachments/assets/c75d4134-5837-402f-b04f-fc71320dd250
 )
+
+
 
 
 
